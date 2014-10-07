@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BloodLilies",
+  "name": "Blood Lilies",
+  "description": "Blood Magic meets Botania",
+  "version": "0.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ratismal"],
+  "credits": "www.hysteriaunleashed.com",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
